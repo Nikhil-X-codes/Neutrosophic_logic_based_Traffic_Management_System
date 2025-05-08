@@ -1,0 +1,31 @@
+Image	Summary
+image1.jpg	Total Vehicles: 5 | Cars: 3 | Trucks: 2 | Coverage: 34.9% | Obstacle Coverage: 0.9% | Density: HIGH | T: 0.35 | I: 0.02 | F: 0.82
+image2.jpg	Total Vehicles: 27 | Cars: 24 | Trucks: 3 | Coverage: 42.2% | Obstacle Coverage: 0.0% | Density: HIGH | T: 0.42 | I: 0.00 | F: 0.79
+image3.jpg	Total Vehicles: 3 | Cars: 2 | Trucks: 1 | Coverage: 11.4% | Obstacle Coverage: 0.0% | Density: MEDIUM | T: 0.11 | I: 0.00 | F: 0.94
+image4.jpg	Total Vehicles: 7 | Cars: 6 | Trucks: 1 | Coverage: 4.5% | Obstacle Coverage: 0.8% | Density: LOW | T: 0.04 | I: 0.02 | F: 0.97
+image5.jpg	Total Vehicles: 28 | Cars: 26 | Buss: 2 | Coverage: 31.0% | Obstacle Coverage: 0.0% | Density: HIGH | T: 0.31 | I: 0.00 | F: 0.84
+image6.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 0.2% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00
+image7.jpg	Total Vehicles: 36 | Cars: 26 | Motorcycles: 9 | Buss: 1 | Coverage: 27.1% | Obstacle Coverage: 2.5% | Density: HIGH | T: 0.27 | I: 0.05 | F: 0.84
+image8.jpg	Total Vehicles: 47 | Cars: 40 | Buss: 2 | Motorcycles: 1 | Trucks: 4 | Coverage: 55.1% | Obstacle Coverage: 0.3% | Density: HIGH | T: 0.55 | I: 0.01 | F: 0.72
+image9.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 53.4% | Density: LOW | T: 0.00 | I: 1.00 | F: 0.50
+image10.jpg	Total Vehicles: 18 | Cars: 15 | Trucks: 3 | Coverage: 11.9% | Obstacle Coverage: 0.0% | Density: MEDIUM | T: 0.12 | I: 0.00 | F: 0.94
+image11.jpg	Total Vehicles: 24 | Cars: 24 | Coverage: 17.1% | Obstacle Coverage: 0.0% | Density: MEDIUM | T: 0.17 | I: 0.00 | F: 0.91
+image12.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 36.3% | Density: LOW | T: 0.00 | I: 0.73 | F: 0.64
+image13.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 92.5% | Density: LOW | T: 0.00 | I: 1.00 | F: 0.50
+image14.jpg	Total Vehicles: 1 | Trucks: 1 | Coverage: 8.3% | Obstacle Coverage: 16.3% | Density: LOW | T: 0.08 | I: 0.33 | F: 0.80
+image15.jpg	Total Vehicles: 3 | Cars: 2 | Trucks: 1 | Coverage: 12.3% | Obstacle Coverage: 0.0% | Density: MEDIUM | T: 0.12 | I: 0.00 | F: 0.94
+image16.jpg	Total Vehicles: 4 | Motorcycles: 4 | Coverage: 10.2% | Obstacle Coverage: 52.0% | Density: MEDIUM | T: 0.10 | I: 1.00 | F: 0.45
+image17.jpg	Total Vehicles: 33 | Cars: 32 | Trucks: 1 | Coverage: 114.4% | Obstacle Coverage: 6.1% | Density: HIGH | T: 1.00 | I: 0.12 | F: 0.44
+image18.jpg	Total Vehicles: 17 | Cars: 17 | Coverage: 28.2% | Obstacle Coverage: 0.0% | Density: HIGH | T: 0.28 | I: 0.00 | F: 0.86
+image19.jpg	Total Vehicles: 44 | Cars: 35 | Trucks: 8 | Buss: 1 | Coverage: 20.9% | Obstacle Coverage: 0.2% | Density: MEDIUM | T: 0.21 | I: 0.00 | F: 0.89
+image20.jpg	Total Vehicles: 1 | Cars: 1 | Coverage: 1.9% | Obstacle Coverage: 47.2% | Density: LOW | T: 0.02 | I: 0.94 | F: 0.52
+image21.jpg	Total Vehicles: 4 | Cars: 2 | Trucks: 2 | Coverage: 42.9% | Obstacle Coverage: 10.6% | Density: HIGH | T: 0.43 | I: 0.21 | F: 0.68
+image22.jpg	Total Vehicles: 11 | Cars: 11 | Coverage: 7.5% | Obstacle Coverage: 0.2% | Density: LOW | T: 0.07 | I: 0.00 | F: 0.96
+image23.jpg	Total Vehicles: 15 | Cars: 14 | Trucks: 1 | Coverage: 6.5% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.07 | I: 0.00 | F: 0.97
+image24.jpg	Total Vehicles: 14 | Cars: 13 | Buss: 1 | Coverage: 11.6% | Obstacle Coverage: 12.5% | Density: MEDIUM | T: 0.12 | I: 0.25 | F: 0.82
+image25.jpg	Total Vehicles: 10 | Cars: 10 | Coverage: 7.0% | Obstacle Coverage: 3.2% | Density: LOW | T: 0.07 | I: 0.06 | F: 0.93
+image26.jpg	Total Vehicles: 5 | Motorcycles: 3 | Cars: 2 | Coverage: 35.6% | Obstacle Coverage: 43.3% | Density: HIGH | T: 0.36 | I: 0.87 | F: 0.39
+image27.jpg	Total Vehicles: 10 | Cars: 9 | Trucks: 1 | Coverage: 45.2% | Obstacle Coverage: 7.1% | Density: HIGH | T: 0.45 | I: 0.14 | F: 0.70
+image28.jpg	Total Vehicles: 24 | Cars: 23 | Buss: 1 | Coverage: 35.0% | Obstacle Coverage: 0.3% | Density: HIGH | T: 0.35 | I: 0.01 | F: 0.82
+image29.jpg	Total Vehicles: 7 | Cars: 7 | Coverage: 16.9% | Obstacle Coverage: 18.4% | Density: MEDIUM | T: 0.17 | I: 0.37 | F: 0.73
+image30.jpg	Total Vehicles: 21 | Cars: 21 | Coverage: 15.9% | Obstacle Coverage: 0.0% | Density: MEDIUM | T: 0.16 | I: 0.00 | F: 0.92

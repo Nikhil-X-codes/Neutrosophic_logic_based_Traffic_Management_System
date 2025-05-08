@@ -1,0 +1,31 @@
+Image	Summary
+image1.jpg	Total Vehicles: 4 | Cars: 3 | Trucks: 1 | Coverage: 26.3% | Obstacle Coverage: 14.2% | Density: HIGH | T: 0.26 | I: 0.28 | F: 0.73
+image2.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00
+image3.jpg	Total Vehicles: 1 | Cars: 1 | Coverage: 7.5% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.08 | I: 0.00 | F: 0.96
+image4.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00
+image5.jpg	Total Vehicles: 1 | Cars: 1 | Coverage: 2.7% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.03 | I: 0.00 | F: 0.99
+image6.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00
+image7.jpg	Total Vehicles: 1 | Cars: 1 | Coverage: 0.3% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00
+image8.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00
+image9.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 53.9% | Density: LOW | T: 0.00 | I: 1.00 | F: 0.50
+image10.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00
+image11.jpg	Total Vehicles: 1 | Cars: 1 | Coverage: 4.3% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.04 | I: 0.00 | F: 0.98
+image12.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 33.0% | Density: LOW | T: 0.00 | I: 0.66 | F: 0.67
+image13.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 57.0% | Density: LOW | T: 0.00 | I: 1.00 | F: 0.50
+image14.jpg	Total Vehicles: 1 | Trucks: 1 | Coverage: 8.7% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.09 | I: 0.00 | F: 0.96
+image15.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 4.6% | Density: LOW | T: 0.00 | I: 0.09 | F: 0.95
+image16.jpg	Total Vehicles: 2 | Motorcycles: 2 | Coverage: 12.0% | Obstacle Coverage: 51.8% | Density: MEDIUM | T: 0.12 | I: 1.00 | F: 0.44
+image17.jpg	Total Vehicles: 5 | Cars: 4 | Trucks: 1 | Coverage: 54.0% | Obstacle Coverage: 0.0% | Density: HIGH | T: 0.54 | I: 0.00 | F: 0.73
+image18.jpg	Total Vehicles: 3 | Cars: 3 | Coverage: 21.6% | Obstacle Coverage: 0.0% | Density: MEDIUM | T: 0.22 | I: 0.00 | F: 0.89
+image19.jpg	Total Vehicles: 1 | Cars: 1 | Coverage: 3.2% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.03 | I: 0.00 | F: 0.98
+image20.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 40.6% | Density: LOW | T: 0.00 | I: 0.81 | F: 0.59
+image21.jpg	Total Vehicles: 2 | Trucks: 1 | Cars: 1 | Coverage: 22.0% | Obstacle Coverage: 7.0% | Density: MEDIUM | T: 0.22 | I: 0.14 | F: 0.82
+image22.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00
+image23.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00
+image24.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00
+image25.jpg	Total Vehicles: 1 | Cars: 1 | Coverage: 2.6% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.03 | I: 0.00 | F: 0.99
+image26.jpg	Total Vehicles: 3 | Motorcycles: 2 | Cars: 1 | Coverage: 34.8% | Obstacle Coverage: 37.3% | Density: HIGH | T: 0.35 | I: 0.75 | F: 0.45
+image27.jpg	Total Vehicles: 5 | Cars: 5 | Coverage: 24.9% | Obstacle Coverage: 0.0% | Density: MEDIUM | T: 0.25 | I: 0.00 | F: 0.88
+image28.jpg	Total Vehicles: 4 | Buss: 1 | Cars: 3 | Coverage: 12.5% | Obstacle Coverage: 0.0% | Density: MEDIUM | T: 0.12 | I: 0.00 | F: 0.94
+image29.jpg	Total Vehicles: 4 | Cars: 4 | Coverage: 18.3% | Obstacle Coverage: 11.2% | Density: MEDIUM | T: 0.18 | I: 0.22 | F: 0.80
+image30.jpg	Total Vehicles: 0 |  | Coverage: 0.0% | Obstacle Coverage: 0.0% | Density: LOW | T: 0.00 | I: 0.00 | F: 1.00

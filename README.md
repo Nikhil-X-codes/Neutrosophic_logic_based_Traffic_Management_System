@@ -6,7 +6,7 @@ This project presents an intelligent AI-based traffic signal control system that
 
 - [Tushar Gupta](https://github.com/gtushar8055) — Dataset, Graphs, Data Analysis  
 - [Nitish Kumar Choubey](https://github.com/NitishChoubey) — Model Coding, Documentation  
-- [Harshit Singhal](https://github.com/harshitsinghal226) — Tables, Flowcharts  
+- [Harshit Singhal](https://github.com/harshitsinghal226) — Tables, Flowcharts, Content 
 - [Nikhil Nagar](https://github.com/Nikhil-X-codes) — Research Paper Analysis  
 - [Devansh Bansal](https://github.com/devanshbansal16) — Documentation Content  
 - **Institute:** IIIT Sonepat, Haryana, India
